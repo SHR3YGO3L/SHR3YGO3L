@@ -34,8 +34,12 @@ Based in **Greater Noida, India**, I am a software engineer passionate about bui
 ---
 
 ### 📊 GitHub Stats
-[![Example Image](https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/main/git-images/github-stats.png)](https://img.shields.io/badge/Test_Badge-Success-green?style=flat-square)
-
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHR3YGO3L&show_icons=true&theme=radical" alt="Shrey's GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHR3YGO3L&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</p>
 ---
 
 ### 📫 Connect with Me
