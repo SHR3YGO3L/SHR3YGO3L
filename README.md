@@ -34,7 +34,8 @@ Based in **Greater Noida, India**, I am a software engineer passionate about bui
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHR3YGO3L&theme=radical)
+![Shrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHR3YGO3L&show_icons=true&theme=radical&cache_seconds=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHR3YGO3L&layout=compact&theme=radical&cache_seconds=0)
 
 ---
 
