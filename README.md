@@ -34,7 +34,7 @@ Based in **Greater Noida, India**, I am a software engineer passionate about bui
 ---
 
 ### 📊 GitHub Stats
-![Example Image](https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/main/git-images/github-stats.png)
+[![Example Image](https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/main/git-images/github-stats.png)](https://img.shields.io/badge/Test_Badge-Success-green?style=flat-square)
 
 ---
 
