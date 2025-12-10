@@ -30,14 +30,11 @@ Based in **Greater Noida, India**, I am a software engineer passionate about bui
 | **Azure Data Pipeline** | End-to-end data pipeline implementing **Medallion Architecture** (Bronze → Silver → Gold) for reliable data warehousing. | Azure Data Factory, Databricks, PySpark, Synapse |
 | **File Sharing Web App** | Secure file upload and sharing platform featuring end-to-end encryption and password-protected links. | Node.js, React, MongoDB (MERN) |
 | **Smart File Organizer** | *Current Project:* Desktop app for semantic file management with intelligent categorization and cloud sync. | Python, AWS, Gensim, Firebase |
-| **Fishy Website Checker** | Security tool analyzing URLs for malicious attributes using heuristic analysis with **97% detection accuracy**. | Python, Web Scraping |
 
 ---
 
 ### 📊 GitHub Stats
-
-![Shrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHR3YGO3L&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHR3YGO3L&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHR3YGO3L&theme=radical)
 
 ---
 
